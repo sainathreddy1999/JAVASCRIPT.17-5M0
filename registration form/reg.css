@@ -1,0 +1,109 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:green;  
+    font-family: 'Arial';  
+}  
+.regis{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: red;  
+        border-radius: 15px ;  
+          
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+color: yellow;
+
+}
+  
+h1{  
+    text-align: center;  
+    color: violet;  
+    padding: 20px;  
+}
+#userid{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#passid{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#username{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#address{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#country{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#zip{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#gender{  
+    width: 30px;  
+    height: 15px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+} 
+#check{  
+    width: 30px;  
+    height: 15px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#desc{  
+    width: 300px;  
+    height: 100px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}
+#submit{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
